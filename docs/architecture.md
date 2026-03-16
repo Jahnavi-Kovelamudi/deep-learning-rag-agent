@@ -1,12 +1,12 @@
 # System Architecture
 ## Team: ___________________
-## Date: ___________________
+## Date: 03-16-2026
 ## Members and Roles:
-- Corpus Architect: ___________________
-- Pipeline Engineer: ___________________
-- UX Lead: ___________________
-- Prompt Engineer: ___________________
-- QA Lead: ___________________
+- Corpus Architect: Anuhya Koyyana
+- Pipeline Engineer: Jahnavi Kovelamudi
+- UX Lead: Vedhagna Reddy
+- Prompt Engineer: Moulya ReddyGari bhupal
+- QA Lead: Shivani Nagaram
 
 ---
 
