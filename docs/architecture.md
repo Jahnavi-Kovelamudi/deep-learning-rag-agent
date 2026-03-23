@@ -212,7 +212,7 @@ These are your Hour 3 interview talking points — be specific.
 ![Output Screenshots](Output_2.jpg)
 ![Output Screenshots](Output_3.jpg)
 ![Output Screenshots](Output_4.jpg)
-![Output Screenshots](Output_4.jpg)
+![Output Screenshots](Output_5.jpg)
 
 **Critical failures fixed before Hour 3:**
 - Fixed stale cached responses: every query reused the same thread_id ("default-session"), causing LangGraph's MemorySaver to return previous answers. Fixed by generating unique UUID per query.
